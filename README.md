@@ -1,4 +1,4 @@
-# 📘 Atividades de PDS1
+# 📘 PDS1
 
 Este repositório registra o início da minha jornada como **cientista da computação**.  
 Aqui estão as atividades e exercícios da disciplina **Programação e Desenvolvimento de Software I (PDS1)**, desenvolvidos em **linguagem C**.
