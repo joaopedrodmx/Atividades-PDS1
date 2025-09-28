@@ -10,8 +10,8 @@ Aqui estão as atividades e exercícios da disciplina **Programação e Desenvol
 
 
 ## 📂 Organização
-- `lista1/`, `lista2/` → exercícios divididos por listas
-- `projetos/` → mini-projetos da disciplina
+- `Aulas Práticas/`, `Práticas Pessoais/` → exercícios divididos por listas e por práticas autonomas
+- `Trabalho Prático` → Projeto da disciplina
 
 ---
 *Este repositório faz parte do meu portfólio pessoal e acompanha minha evolução como estudante de programação.*
