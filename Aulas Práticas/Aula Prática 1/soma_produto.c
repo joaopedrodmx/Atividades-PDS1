@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <math.h>
 
-int main(){ //tanto faz a tipagem da funcao main?
+int main(){
 	char p, d, s, hifen, n;
 	int soma, times;
 	p = 'P';
