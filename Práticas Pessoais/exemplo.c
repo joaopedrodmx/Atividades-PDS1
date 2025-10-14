@@ -5,7 +5,7 @@ void main(){
 	int media_pais;
 	float t_media_pais, prev_alt_filho;
 	char sexo_filho = 1; //char pode ser manipulado da mesma forma que um inteiro pois no codigo executavel o que eh passado eh uma representacao binaria do numero decimal que representa o caractere -> por isso char eh inteiro
-	char aux = 'A'
+	char aux = 'A';
 	
 	media_pais = 170;
 	 
